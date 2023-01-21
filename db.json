@@ -1,0 +1,39 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "name": "Vijay ",
+      "email": "vijayyadave@gmail.com",
+      "hire_date": "2022-11-10",
+      "mobile": "9645486387"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Lohra",
+      "email": "lohraraul08@gmail.com",
+      "hire_date": "2022-11-05",
+      "mobile": "9633115588"
+    },
+    {
+      "id": 3,
+      "name": "Roshni Toppo",
+      "email": "rosnitoppo@gmail.com",
+      "hire_date": "2022-11-12",
+      "mobile": "4565489846"
+    },
+    {
+      "id": 4,
+      "name": "Rohit Kumar",
+      "email": "rk2986761@gmail.com",
+      "hire_date": "2023-03-02",
+      "mobile": "08102570327"
+    },
+    {
+      "id": 5,
+      "name": "Vashu Dev Mahto",
+      "email": "vashu@gmail.com",
+      "hire_date": "2022-04-15",
+      "mobile": "9845364598"
+    }
+  ]
+}

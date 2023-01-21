@@ -1,0 +1,56 @@
+{
+  "User-Data": [
+    {
+      "id": 1,
+      "Name": "Rahul",
+      "Email": "lohrarahul08@gmail.com",
+      "Password": "Login#123",
+      "Mobile": "8340357337"
+    },
+    {
+      "id": 2,
+      "Name": "Rahul",
+      "Email": "lohrarahul@gmail.com",
+      "Password": "Login#13",
+      "Mobile": "8340399337"
+    },
+    {
+      "name": "sssss",
+      "email": "safsa@gmail.com",
+      "password": "dddd",
+      "mobile": "6201253720",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "Rohit",
+      "email": "rohitkrmodi07@gmail.com",
+      "password": "login$123",
+      "mobile": "08102570327",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "Rohit",
+      "email": "rohitkrmodi07@gmail.com",
+      "password": "login$123",
+      "mobile": "08102570327",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "ddaaaa@gmail.com",
+      "password": "rahul",
+      "mobile": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 7
+    }
+  ]
+}
