@@ -60,7 +60,7 @@ function App() {
 
             <Route path="/student-form" element={<StudentForm />} />
 
-            {/* <Route path="/employee/details" element={<EmployeeDetaila/>} /> */}
+            {/* <Route path="/employee/details" element={<EmployeeDetai/>} /> */}
 
               {/* <Route exact path="/user" element={<UserData/>} /> */}
           </Routes>

@@ -94,12 +94,12 @@ export default function Navbar(props) {
               <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="/gallery">Photos</a>
         </li>
-              {/* <li className="nav-item">
+              <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="/edit-employee">Employees</a>
-        </li> */}
-              {/* <li className="nav-item">
+        </li>
+              <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="/employee/details">Employee Details</a>
-        </li> */}
+        </li>
               {/* <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="/user">User Details</a>
         </li> */}
